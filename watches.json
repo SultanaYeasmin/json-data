@@ -1,0 +1,8 @@
+[
+    { "id": 1, "name": "Rolex-Submariner-15", "price": 10000 },
+    { "id": 2, "name": "Omega-Speed-master", "price": 5000 },
+    { "id": 3, "name": "Tag-watch", "price": 4500 },
+    { "id": 4, "name": "Seiko-Prosper", "price": 700 },
+    { "id": 5, "name": "Casio-G-Shock", "price": 150 }
+  ]
+  
